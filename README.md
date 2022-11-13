@@ -14,3 +14,8 @@ If we talked about teachers we take the first name and second name and join both
 5.	Exit: simply exit the menu and disconnect from the server.
 
 After a client is gone, the update Percentage function is responsible for the calculating percentage of the students in the file and writing against each student. Thus, the teacher can update the records and when dismissed from his/her activities the calculation of the percentage of the student is done accordingly.
+
+# Scenario
+![image](https://user-images.githubusercontent.com/75754258/201533810-ee781920-308c-4b74-be65-c6b7ad51542d.png)
+![image](https://user-images.githubusercontent.com/75754258/201533853-f32a5ae9-afa8-490a-9d04-0d17cceb1867.png)
+![image](https://user-images.githubusercontent.com/75754258/201533959-82b8871d-6205-42cc-94a9-e8f311285f87.png)
