@@ -1,8 +1,3 @@
-/*
-    Muhammad Usman Shahid
-        20i-1797
-          CY-T
-*/
 
 #include <iostream>
 #include <cstdio>
